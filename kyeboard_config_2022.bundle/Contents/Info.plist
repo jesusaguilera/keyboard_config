@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.kyeboard_config_2022</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>kyeboard_config_2022</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_keyboard_config_2022</key>
@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..keyboard_config_2022</string>
+		<string>org.sil.ukelele.keyboardlayout.kyeboard_config_2022.keyboard_config_2022</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
